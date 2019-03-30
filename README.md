@@ -5,4 +5,5 @@
 ### [Программа Multisim для выполнения ЛР](https://yadi.sk/d/2xjiu_z9QWzZvg)
 ### [Методические указания к ЛР1](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/em_metod_lab_01.pdf)
 ### [Задание ЛР2](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%9B%D0%A02.%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
-### [ЛР3](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%9B%D0%A03.doc)
+### [ЛР3.doc](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%9B%D0%A03.doc)
+### [ЛР3.pdf](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%9B%D0%A03.pdf)
