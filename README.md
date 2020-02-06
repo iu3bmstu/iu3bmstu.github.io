@@ -9,3 +9,4 @@
 ### [Лабораторная работа №2]
 ### [Лабораторная работа №3]
 ### [Лабораторная работа №4]
+### [MultiSIM 14.1](http://download.ni.com/support/softlib/Core/Circuit_Design_Suite/14.1/14.1/NI_Circuit_Design_Suite_14_1_Education.zip)
