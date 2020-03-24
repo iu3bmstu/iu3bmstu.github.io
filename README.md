@@ -12,3 +12,4 @@
 ### [MultiSIM 14.1](http://download.ni.com/support/softlib/Core/Circuit_Design_Suite/14.1/14.1/NI_Circuit_Design_Suite_14_1_Education.zip)
 ### [Архив руссификации MultiSIM](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/Russian14.rar)
 Для добавления языка в папке установки multisim найти подпапку stringfiles. В ней будут папки English и German. Создать папку Russian. Содерживое архива распакавать в созданную папку Russian.
+### [Пример оформления ЛР](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9B%D0%A0.doc)
