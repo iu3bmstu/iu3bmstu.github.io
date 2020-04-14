@@ -17,3 +17,4 @@
 Для добавления языка в папке установки multisim найти подпапку stringfiles. В ней будут папки English и German. Создать папку Russian. Содерживое архива распакавать в созданную папку Russian.
 ### [Пример оформления ЛР](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9B%D0%A0.doc)
 ### [Примеры](https://github.com/iu3bmstu/iu3bmstu.github.io/tree/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B)
+### [Типовые ошибки ЛР1](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%A2%D0%B8%D0%BF%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8%20%D0%9B%D0%A01.pdf)
