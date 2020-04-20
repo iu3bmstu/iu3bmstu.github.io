@@ -9,7 +9,7 @@
 ### [Дистанционный прием ЛР1](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/2020-%D0%9B%D0%A01-%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0.pdf)
 ### Методические указания
 ### [Лабораторная работа №1](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%9B%D0%A0_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0_2020_%D0%9C%D0%A3.pdf)
-### [Лабораторная работа №2]
+### [Лабораторная работа №2](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%9B%D0%A02.pdf)
 ### [Лабораторная работа №3]
 ### [Лабораторная работа №4]
 ### [MultiSIM 14.1](http://download.ni.com/support/softlib/Core/Circuit_Design_Suite/14.1/14.1/NI_Circuit_Design_Suite_14_1_Education.zip)
