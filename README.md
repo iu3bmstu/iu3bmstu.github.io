@@ -1,14 +1,13 @@
 # iu3bmstu.github.io
 
 Актуальность данных ЛР - 29.12.2020 23:59
-Актуальность данных ЛР2 - 19.12.2020 23:59
+Актуальность данных ЛР2 - 22.12.2020 23:59
 Актуальность данных ЛР3 - 29.12.2020 23:59
 Актуальность данных ЛР4 - 29.12.2020 23:59
 
 ### [Требования к письмам](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B0%D0%BC.pdf)
 ## ИУ3 ЛР Электроника 2020
-### 25/05/2020 Состоится онлайн консультация по всем ЛР
-### [Расписание лабораторных работ по курсу Электроника весна 2020 c изменениями дистанционного обучения](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9B%D0%A0%20%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B2%D0%B5%D1%81%D0%BD%D0%B0%202020.pdf)
+
 ### [Результаты сдачи лабораторных работ](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/2020-%D0%9B%D0%A0-%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0.pdf)
 ### [Дистанционный прием ЛР2](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/2020-%D0%9B%D0%A02-%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0.pdf)
 ### [Дистанционный прием ЛР3](https://github.com/iu3bmstu/iu3bmstu.github.io/raw/master/2020-%D0%9B%D0%A03-%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0.pdf)
